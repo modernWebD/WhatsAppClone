@@ -16,13 +16,7 @@ import { AngularFireStorageModule } from '@angular/fire/storage';
 import { AngularFireAuthModule } from '@angular/fire/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA91dAUGCe1-CJIwC-nbqGW7g7TUOJlo-0",
-  authDomain: "whatsappclone-29aef.firebaseapp.com",
-  databaseURL: "https://whatsappclone-29aef.firebaseio.com",
-  projectId: "whatsappclone-29aef",
-  storageBucket: "whatsappclone-29aef.appspot.com",
-  messagingSenderId: "735798205812",
-  appId: "1:735798205812:web:cc92da5cdcbe959149a021"
+// Enter your Credentials
 };
 
 @NgModule({
